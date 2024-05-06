@@ -4,13 +4,7 @@
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Сделал практически всё, дальше графоманить смысла не вижу, так как уже идёт то же самое, что и было, так что оценить работу вы сможете и так и так. Старался делать размеры относительно значений в фигме, но иногда отходил, дабы они одинаково выглядели. Некоторые элементы в макете Figma были изменены другими соискателями, поэтому могут быть неточности.
+Шрифты не стал подключать, понятно что с этим проблем возникнуть не может, и понятно, что будь это проектом, я бы их подключил.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Календарь работает(в обе стороны), значения сохраняются в кэше, данные берутся с сервера.
